@@ -6,7 +6,6 @@
     ],
     "license": "Apache-2.0",
     "private": true,
-    "strict-ssl": false,
     "devDependencies": {
         "patternfly": "3.17.0",
         "angular-patternfly": "3.17.0",
